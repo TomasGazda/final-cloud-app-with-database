@@ -1,5 +1,5 @@
   applications:
-  - name: onlinecourse
+  - name: TG_Final_Ppoject
     routes:
       - route: https://tg93-final-project.us-south.cf.appdomain.cloud
     memory: 128M
